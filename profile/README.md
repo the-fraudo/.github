@@ -1,5 +1,5 @@
 ## Hi there 👋
-Are you a `dev` who got looted by your unethical and fraudulent client? Make them taste the same flavor!
+Are you a `dev` who got looted by your unethical and fraudulent client?
 
 <!--
 
